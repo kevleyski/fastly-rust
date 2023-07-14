@@ -1,5 +1,7 @@
 # Changelog
 
+## KJSL v3.0.2?
+
 ## [v3.0.0](https://github.com/fastly/fastly-rust/releases/tag/release/v3.0.0) (2023-07-06)
 
 Substantial changes were made to the underlying OpenAPI specification that produces this API client. These changes have resulted in multiple new endpoints being supported as well as multiple breaking type changes and so we're publishing these changes as a new major release.
